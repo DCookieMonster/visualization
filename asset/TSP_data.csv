@@ -1,0 +1,441 @@
+users,y,value
+user_1,conf.correct,0.8
+user_10,conf.correct,0.5
+user_11,conf.correct,1
+user_12,conf.correct,1
+user_13,conf.correct,1
+user_14,conf.correct,0.5
+user_15,conf.correct,0.5
+user_16,conf.correct,0.8
+user_17,conf.correct,1
+user_18,conf.correct,1
+user_19,conf.correct,1
+user_2,conf.correct,1
+user_20,conf.correct,1
+user_21,conf.correct,0.5
+user_22,conf.correct,1
+user_23,conf.correct,1
+user_24,conf.correct,1
+user_25,conf.correct,1
+user_26,conf.correct,0.5
+user_27,conf.correct,1
+user_28,conf.correct,0.6
+user_29,conf.correct,1
+user_3,conf.correct,1
+user_30,conf.correct,0.8
+user_31,conf.correct,1
+user_32,conf.correct,1
+user_33,conf.correct,0.5
+user_34,conf.correct,1
+user_35,conf.correct,1
+user_36,conf.correct,0.5
+user_37,conf.correct,0.5
+user_38,conf.correct,1
+user_39,conf.correct,0.5
+user_4,conf.correct,1
+user_40,conf.correct,0.8
+user_41,conf.correct,1
+user_42,conf.correct,1
+user_43,conf.correct,1
+user_44,conf.correct,0.8
+user_45,conf.correct,0.5
+user_46,conf.correct,1
+user_47,conf.correct,0.5
+user_48,conf.correct,0.5
+user_49,conf.correct,1
+user_5,conf.correct,1
+user_50,conf.correct,1
+user_51,conf.correct,1
+user_52,conf.correct,1
+user_53,conf.correct,1
+user_54,conf.correct,1
+user_55,conf.correct,1
+user_6,conf.correct,1
+user_7,conf.correct,0.9
+user_8,conf.correct,1
+user_9,conf.correct,0.5
+user_1,conf.own,1
+user_10,conf.own,0.3
+user_11,conf.own,1
+user_12,conf.own,1
+user_13,conf.own,1
+user_14,conf.own,0.5
+user_15,conf.own,0.5
+user_16,conf.own,1
+user_17,conf.own,1
+user_18,conf.own,1
+user_19,conf.own,0.5
+user_2,conf.own,1
+user_20,conf.own,0.6
+user_21,conf.own,0.5
+user_22,conf.own,1
+user_23,conf.own,0.6
+user_24,conf.own,1
+user_25,conf.own,1
+user_26,conf.own,0
+user_27,conf.own,1
+user_28,conf.own,1
+user_29,conf.own,1
+user_3,conf.own,1
+user_30,conf.own,1
+user_31,conf.own,1
+user_32,conf.own,1
+user_33,conf.own,0.8
+user_34,conf.own,1
+user_35,conf.own,0.5
+user_36,conf.own,0.5
+user_37,conf.own,0.5
+user_38,conf.own,1
+user_39,conf.own,0.4
+user_4,conf.own,1
+user_40,conf.own,0.5
+user_41,conf.own,1
+user_42,conf.own,1
+user_43,conf.own,1
+user_44,conf.own,1
+user_45,conf.own,1
+user_46,conf.own,0.9
+user_47,conf.own,0.5
+user_48,conf.own,0.5
+user_49,conf.own,1
+user_5,conf.own,1
+user_50,conf.own,1
+user_51,conf.own,1
+user_52,conf.own,1
+user_53,conf.own,1
+user_54,conf.own,1
+user_55,conf.own,1
+user_6,conf.own,1
+user_7,conf.own,0
+user_8,conf.own,1
+user_9,conf.own,0.4
+user_1,conf.solve,1
+user_10,conf.solve,1
+user_11,conf.solve,0.3
+user_12,conf.solve,1
+user_13,conf.solve,1
+user_14,conf.solve,1
+user_15,conf.solve,0.5
+user_16,conf.solve,0.5
+user_17,conf.solve,1
+user_18,conf.solve,1
+user_19,conf.solve,1
+user_2,conf.solve,0.5
+user_20,conf.solve,1
+user_21,conf.solve,0.6
+user_22,conf.solve,0.5
+user_23,conf.solve,1
+user_24,conf.solve,0.6
+user_25,conf.solve,1
+user_26,conf.solve,1
+user_27,conf.solve,0
+user_28,conf.solve,1
+user_29,conf.solve,1
+user_3,conf.solve,1
+user_30,conf.solve,1
+user_31,conf.solve,1
+user_32,conf.solve,1
+user_33,conf.solve,1
+user_34,conf.solve,0.8
+user_35,conf.solve,1
+user_36,conf.solve,0.5
+user_37,conf.solve,0.5
+user_38,conf.solve,0.5
+user_39,conf.solve,1
+user_4,conf.solve,0.4
+user_40,conf.solve,1
+user_41,conf.solve,0.5
+user_42,conf.solve,1
+user_43,conf.solve,1
+user_44,conf.solve,1
+user_45,conf.solve,1
+user_46,conf.solve,1
+user_47,conf.solve,0.9
+user_48,conf.solve,0.5
+user_49,conf.solve,0.5
+user_5,conf.solve,1
+user_50,conf.solve,1
+user_51,conf.solve,1
+user_52,conf.solve,1
+user_53,conf.solve,1
+user_54,conf.solve,1
+user_55,conf.solve,1
+user_6,conf.solve,1
+user_7,conf.solve,1
+user_8,conf.solve,0
+user_9,conf.solve,1
+user_1,conf.wrong,1
+user_10,conf.wrong,0.3
+user_11,conf.wrong,0.5
+user_12,conf.wrong,1
+user_13,conf.wrong,1
+user_14,conf.wrong,0.5
+user_15,conf.wrong,0.3
+user_16,conf.wrong,1
+user_17,conf.wrong,1
+user_18,conf.wrong,1
+user_19,conf.wrong,1
+user_2,conf.wrong,0.9
+user_20,conf.wrong,1
+user_21,conf.wrong,0.5
+user_22,conf.wrong,1
+user_23,conf.wrong,1
+user_24,conf.wrong,1
+user_25,conf.wrong,1
+user_26,conf.wrong,0
+user_27,conf.wrong,1
+user_28,conf.wrong,1
+user_29,conf.wrong,1
+user_3,conf.wrong,1
+user_30,conf.wrong,1
+user_31,conf.wrong,1
+user_32,conf.wrong,0
+user_33,conf.wrong,0.8
+user_34,conf.wrong,1
+user_35,conf.wrong,0.9
+user_36,conf.wrong,0.5
+user_37,conf.wrong,0.5
+user_38,conf.wrong,1
+user_39,conf.wrong,0.5
+user_4,conf.wrong,0.6
+user_40,conf.wrong,0.9
+user_41,conf.wrong,1
+user_42,conf.wrong,1
+user_43,conf.wrong,1
+user_44,conf.wrong,0.8
+user_45,conf.wrong,1
+user_46,conf.wrong,1
+user_47,conf.wrong,0.5
+user_48,conf.wrong,0.5
+user_49,conf.wrong,1
+user_5,conf.wrong,1
+user_50,conf.wrong,1
+user_51,conf.wrong,1
+user_52,conf.wrong,1
+user_53,conf.wrong,1
+user_54,conf.wrong,1
+user_55,conf.wrong,1
+user_6,conf.wrong,1
+user_7,conf.wrong,0.5
+user_8,conf.wrong,1
+user_9,conf.wrong,0.4
+user_1,correct solution,1
+user_10,correct solution,1
+user_11,correct solution,1
+user_12,correct solution,1
+user_13,correct solution,1
+user_14,correct solution,1
+user_15,correct solution,1
+user_16,correct solution,1
+user_17,correct solution,1
+user_18,correct solution,1
+user_19,correct solution,1
+user_2,correct solution,1
+user_20,correct solution,1
+user_21,correct solution,1
+user_22,correct solution,1
+user_23,correct solution,1
+user_24,correct solution,1
+user_25,correct solution,1
+user_26,correct solution,1
+user_27,correct solution,1
+user_28,correct solution,1
+user_29,correct solution,1
+user_3,correct solution,1
+user_30,correct solution,1
+user_31,correct solution,1
+user_32,correct solution,1
+user_33,correct solution,1
+user_34,correct solution,1
+user_35,correct solution,1
+user_36,correct solution,1
+user_37,correct solution,0
+user_38,correct solution,1
+user_39,correct solution,1
+user_4,correct solution,1
+user_40,correct solution,1
+user_41,correct solution,1
+user_42,correct solution,1
+user_43,correct solution,1
+user_44,correct solution,1
+user_45,correct solution,1
+user_46,correct solution,1
+user_47,correct solution,1
+user_48,correct solution,0
+user_49,correct solution,1
+user_5,correct solution,1
+user_50,correct solution,1
+user_51,correct solution,1
+user_52,correct solution,1
+user_53,correct solution,1
+user_54,correct solution,1
+user_55,correct solution,1
+user_6,correct solution,1
+user_7,correct solution,1
+user_8,correct solution,1
+user_9,correct solution,0
+user_1,own solution,1
+user_10,own solution,1
+user_11,own solution,1
+user_12,own solution,1
+user_13,own solution,1
+user_14,own solution,1
+user_15,own solution,1
+user_16,own solution,1
+user_17,own solution,1
+user_18,own solution,1
+user_19,own solution,1
+user_2,own solution,1
+user_20,own solution,0
+user_21,own solution,0
+user_22,own solution,1
+user_23,own solution,0
+user_24,own solution,1
+user_25,own solution,1
+user_26,own solution,1
+user_27,own solution,1
+user_28,own solution,1
+user_29,own solution,1
+user_3,own solution,1
+user_30,own solution,1
+user_31,own solution,1
+user_32,own solution,1
+user_33,own solution,1
+user_34,own solution,1
+user_35,own solution,1
+user_36,own solution,1
+user_37,own solution,1
+user_38,own solution,1
+user_39,own solution,1
+user_4,own solution,1
+user_40,own solution,1
+user_41,own solution,1
+user_42,own solution,1
+user_43,own solution,1
+user_44,own solution,1
+user_45,own solution,1
+user_46,own solution,1
+user_47,own solution,0
+user_48,own solution,1
+user_49,own solution,1
+user_5,own solution,1
+user_50,own solution,1
+user_51,own solution,1
+user_52,own solution,1
+user_53,own solution,1
+user_54,own solution,1
+user_55,own solution,1
+user_6,own solution,1
+user_7,own solution,1
+user_8,own solution,1
+user_9,own solution,1
+user_1,solve,0
+user_10,solve,0
+user_11,solve,1
+user_12,solve,0
+user_13,solve,1
+user_14,solve,0
+user_15,solve,0
+user_16,solve,1
+user_17,solve,1
+user_18,solve,0
+user_19,solve,0
+user_2,solve,0
+user_20,solve,0
+user_21,solve,0
+user_22,solve,0
+user_23,solve,0
+user_24,solve,0
+user_25,solve,0
+user_26,solve,0
+user_27,solve,0
+user_28,solve,0
+user_29,solve,0
+user_3,solve,1
+user_30,solve,0
+user_31,solve,0
+user_32,solve,0
+user_33,solve,0
+user_34,solve,0
+user_35,solve,0
+user_36,solve,0
+user_37,solve,0
+user_38,solve,1
+user_39,solve,0
+user_4,solve,0
+user_40,solve,1
+user_41,solve,1
+user_42,solve,1
+user_43,solve,0
+user_44,solve,1
+user_45,solve,0
+user_46,solve,0
+user_47,solve,0
+user_48,solve,1
+user_49,solve,0
+user_5,solve,1
+user_50,solve,0
+user_51,solve,0
+user_52,solve,0
+user_53,solve,0
+user_54,solve,0
+user_55,solve,1
+user_6,solve,1
+user_7,solve,0
+user_8,solve,0
+user_9,solve,0
+user_1,wrong solution,1
+user_10,wrong solution,1
+user_11,wrong solution,1
+user_12,wrong solution,1
+user_13,wrong solution,1
+user_14,wrong solution,1
+user_15,wrong solution,1
+user_16,wrong solution,1
+user_17,wrong solution,0
+user_18,wrong solution,1
+user_19,wrong solution,1
+user_2,wrong solution,1
+user_20,wrong solution,1
+user_21,wrong solution,1
+user_22,wrong solution,1
+user_23,wrong solution,1
+user_24,wrong solution,1
+user_25,wrong solution,1
+user_26,wrong solution,1
+user_27,wrong solution,1
+user_28,wrong solution,1
+user_29,wrong solution,1
+user_3,wrong solution,1
+user_30,wrong solution,1
+user_31,wrong solution,1
+user_32,wrong solution,1
+user_33,wrong solution,0
+user_34,wrong solution,1
+user_35,wrong solution,1
+user_36,wrong solution,1
+user_37,wrong solution,1
+user_38,wrong solution,1
+user_39,wrong solution,1
+user_4,wrong solution,1
+user_40,wrong solution,1
+user_41,wrong solution,1
+user_42,wrong solution,1
+user_43,wrong solution,1
+user_44,wrong solution,0
+user_45,wrong solution,1
+user_46,wrong solution,1
+user_47,wrong solution,1
+user_48,wrong solution,1
+user_49,wrong solution,1
+user_5,wrong solution,1
+user_50,wrong solution,1
+user_51,wrong solution,1
+user_52,wrong solution,1
+user_53,wrong solution,1
+user_54,wrong solution,1
+user_55,wrong solution,1
+user_6,wrong solution,1
+user_7,wrong solution,1
+user_8,wrong solution,1
+user_9,wrong solution,1

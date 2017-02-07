@@ -1,0 +1,441 @@
+pid,y,value,users
+14e12bc0,conf.correct,1,user_1
+d9a13dab,conf.correct,0.5,user_10
+abf13ec8,conf.correct,1,user_11
+f8f13e3f,conf.correct,1,user_12
+69e13dbf,conf.correct,1,user_13
+7fe13eed,conf.correct,0.3,user_14
+63e13e19,conf.correct,0.7,user_15
+f5a14053,conf.correct,1,user_16
+dfaa6997,conf.correct,1,user_17
+9ada6961,conf.correct,0.8,user_18
+3dba695c,conf.correct,0.8,user_19
+6ff12bc6,conf.correct,0.9,user_2
+7eaa695c,conf.correct,0.9,user_20
+4afa695f,conf.correct,0.5,user_21
+51da695c,conf.correct,0.7,user_22
+fdba6dee,conf.correct,1,user_23
+4faa761b,conf.correct,0.5,user_24
+feaa771c,conf.correct,1,user_25
+9ada77bf,conf.correct,0,user_26
+74ea7780,conf.correct,1,user_27
+aaca786e,conf.correct,0.8,user_28
+edda7ade,conf.correct,0.5,user_29
+d4d12bd1,conf.correct,0.7,user_3
+4dea781f,conf.correct,1,user_30
+5dca7999,conf.correct,1,user_31
+a7d493fc,conf.correct,1,user_32
+95c49401,conf.correct,0.5,user_33
+74f49413,conf.correct,0.5,user_34
+23d493fc,conf.correct,0.8,user_35
+1ab493fd,conf.correct,0.5,user_36
+20a493fc,conf.correct,1,user_37
+bffd5e34,conf.correct,0.5,user_38
+7ecd5e30,conf.correct,0.4,user_39
+5af12be7,conf.correct,0.6,user_4
+fcbd5e2f,conf.correct,0.8,user_40
+85ed5e2b,conf.correct,0.7,user_41
+a7bd5e2a,conf.correct,0.8,user_42
+e4fd61db,conf.correct,0.7,user_43
+92fd5e2b,conf.correct,1,user_44
+54bd5e2f,conf.correct,0.6,user_45
+17fd5e34,conf.correct,0.9,user_46
+b9a5f3a1,conf.correct,0.4,user_47
+39f5f38a,conf.correct,0.9,user_48
+99e5f431,conf.correct,1,user_49
+44b12cfb,conf.correct,1,user_5
+78a5f3d0,conf.correct,0.5,user_50
+cfa5f4db,conf.correct,0.8,user_51
+d7a5f3e3,conf.correct,1,user_52
+4eb5f44f,conf.correct,0.6,user_53
+86e5f420,conf.correct,0.7,user_54
+44a5f428,conf.correct,1,user_55
+11a12cf7,conf.correct,0.4,user_6
+3ba12bbf,conf.correct,0,user_7
+40e12bc4,conf.correct,1,user_8
+93c13cdf,conf.correct,0.3,user_9
+14e12bc0,conf.own,1,user_1
+d9a13dab,conf.own,0.5,user_10
+abf13ec8,conf.own,1,user_11
+f8f13e3f,conf.own,1,user_12
+69e13dbf,conf.own,1,user_13
+7fe13eed,conf.own,0.7,user_14
+63e13e19,conf.own,0.5,user_15
+f5a14053,conf.own,1,user_16
+dfaa6997,conf.own,1,user_17
+9ada6961,conf.own,0.8,user_18
+3dba695c,conf.own,1,user_19
+6ff12bc6,conf.own,1,user_2
+7eaa695c,conf.own,0.9,user_20
+4afa695f,conf.own,0.1,user_21
+51da695c,conf.own,0.7,user_22
+fdba6dee,conf.own,0.8,user_23
+4faa761b,conf.own,0.5,user_24
+feaa771c,conf.own,1,user_25
+9ada77bf,conf.own,0,user_26
+74ea7780,conf.own,1,user_27
+aaca786e,conf.own,0,user_28
+edda7ade,conf.own,0.5,user_29
+d4d12bd1,conf.own,0.7,user_3
+4dea781f,conf.own,1,user_30
+5dca7999,conf.own,1,user_31
+a7d493fc,conf.own,1,user_32
+95c49401,conf.own,0.5,user_33
+74f49413,conf.own,0.8,user_34
+23d493fc,conf.own,1,user_35
+1ab493fd,conf.own,0.4,user_36
+20a493fc,conf.own,1,user_37
+bffd5e34,conf.own,0.6,user_38
+7ecd5e30,conf.own,0.4,user_39
+5af12be7,conf.own,0.7,user_4
+fcbd5e2f,conf.own,0.5,user_40
+85ed5e2b,conf.own,0.8,user_41
+a7bd5e2a,conf.own,0.7,user_42
+e4fd61db,conf.own,0.4,user_43
+92fd5e2b,conf.own,0.5,user_44
+54bd5e2f,conf.own,0.6,user_45
+17fd5e34,conf.own,0.8,user_46
+b9a5f3a1,conf.own,0.4,user_47
+39f5f38a,conf.own,0.9,user_48
+99e5f431,conf.own,0.6,user_49
+44b12cfb,conf.own,1,user_5
+78a5f3d0,conf.own,0.5,user_50
+cfa5f4db,conf.own,0.8,user_51
+d7a5f3e3,conf.own,1,user_52
+4eb5f44f,conf.own,0.7,user_53
+86e5f420,conf.own,1,user_54
+44a5f428,conf.own,1,user_55
+11a12cf7,conf.own,0.6,user_6
+3ba12bbf,conf.own,0.5,user_7
+40e12bc4,conf.own,1,user_8
+93c13cdf,conf.own,0.5,user_9
+14e12bc0,conf.solve,1,user_1
+d9a13dab,conf.solve,0.5,user_10
+abf13ec8,conf.solve,1,user_11
+f8f13e3f,conf.solve,1,user_12
+69e13dbf,conf.solve,1,user_13
+7fe13eed,conf.solve,0.7,user_14
+63e13e19,conf.solve,0.5,user_15
+f5a14053,conf.solve,1,user_16
+dfaa6997,conf.solve,1,user_17
+9ada6961,conf.solve,0.8,user_18
+3dba695c,conf.solve,1,user_19
+6ff12bc6,conf.solve,1,user_2
+7eaa695c,conf.solve,0.9,user_20
+4afa695f,conf.solve,0.1,user_21
+51da695c,conf.solve,0.7,user_22
+fdba6dee,conf.solve,0.8,user_23
+4faa761b,conf.solve,0.5,user_24
+feaa771c,conf.solve,1,user_25
+9ada77bf,conf.solve,0,user_26
+74ea7780,conf.solve,1,user_27
+aaca786e,conf.solve,0,user_28
+edda7ade,conf.solve,0.5,user_29
+d4d12bd1,conf.solve,0.7,user_3
+4dea781f,conf.solve,1,user_30
+5dca7999,conf.solve,1,user_31
+a7d493fc,conf.solve,1,user_32
+95c49401,conf.solve,0.5,user_33
+74f49413,conf.solve,0.8,user_34
+23d493fc,conf.solve,1,user_35
+1ab493fd,conf.solve,0.4,user_36
+20a493fc,conf.solve,1,user_37
+bffd5e34,conf.solve,0.6,user_38
+7ecd5e30,conf.solve,0.4,user_39
+5af12be7,conf.solve,0.7,user_4
+fcbd5e2f,conf.solve,0.5,user_40
+85ed5e2b,conf.solve,0.8,user_41
+a7bd5e2a,conf.solve,0.7,user_42
+e4fd61db,conf.solve,0.4,user_43
+92fd5e2b,conf.solve,0.5,user_44
+54bd5e2f,conf.solve,0.6,user_45
+17fd5e34,conf.solve,0.8,user_46
+b9a5f3a1,conf.solve,0.4,user_47
+39f5f38a,conf.solve,0.9,user_48
+99e5f431,conf.solve,0.6,user_49
+44b12cfb,conf.solve,1,user_5
+78a5f3d0,conf.solve,0.5,user_50
+cfa5f4db,conf.solve,0.8,user_51
+d7a5f3e3,conf.solve,1,user_52
+4eb5f44f,conf.solve,0.7,user_53
+86e5f420,conf.solve,1,user_54
+44a5f428,conf.solve,1,user_55
+11a12cf7,conf.solve,0.6,user_6
+3ba12bbf,conf.solve,0.5,user_7
+40e12bc4,conf.solve,1,user_8
+93c13cdf,conf.solve,0.5,user_9
+14e12bc0,conf.wrong,1,user_1
+d9a13dab,conf.wrong,0.3,user_10
+abf13ec8,conf.wrong,1,user_11
+f8f13e3f,conf.wrong,0,user_12
+69e13dbf,conf.wrong,1,user_13
+7fe13eed,conf.wrong,0.5,user_14
+63e13e19,conf.wrong,0.8,user_15
+f5a14053,conf.wrong,1,user_16
+dfaa6997,conf.wrong,1,user_17
+9ada6961,conf.wrong,0.5,user_18
+3dba695c,conf.wrong,1,user_19
+6ff12bc6,conf.wrong,1,user_2
+7eaa695c,conf.wrong,0.9,user_20
+4afa695f,conf.wrong,0.5,user_21
+51da695c,conf.wrong,0.6,user_22
+fdba6dee,conf.wrong,0.6,user_23
+4faa761b,conf.wrong,0.5,user_24
+feaa771c,conf.wrong,1,user_25
+9ada77bf,conf.wrong,0,user_26
+74ea7780,conf.wrong,1,user_27
+aaca786e,conf.wrong,0.8,user_28
+edda7ade,conf.wrong,0.5,user_29
+d4d12bd1,conf.wrong,0.5,user_3
+4dea781f,conf.wrong,1,user_30
+5dca7999,conf.wrong,1,user_31
+a7d493fc,conf.wrong,1,user_32
+95c49401,conf.wrong,0.8,user_33
+74f49413,conf.wrong,0.5,user_34
+23d493fc,conf.wrong,0.7,user_35
+1ab493fd,conf.wrong,0.3,user_36
+20a493fc,conf.wrong,1,user_37
+bffd5e34,conf.wrong,0.6,user_38
+7ecd5e30,conf.wrong,0.4,user_39
+5af12be7,conf.wrong,0.4,user_4
+fcbd5e2f,conf.wrong,0.9,user_40
+85ed5e2b,conf.wrong,0.5,user_41
+a7bd5e2a,conf.wrong,0.5,user_42
+e4fd61db,conf.wrong,0,user_43
+92fd5e2b,conf.wrong,0.5,user_44
+54bd5e2f,conf.wrong,0.7,user_45
+17fd5e34,conf.wrong,0.9,user_46
+b9a5f3a1,conf.wrong,0.5,user_47
+39f5f38a,conf.wrong,0.9,user_48
+99e5f431,conf.wrong,1,user_49
+44b12cfb,conf.wrong,1,user_5
+78a5f3d0,conf.wrong,0.7,user_50
+cfa5f4db,conf.wrong,0.8,user_51
+d7a5f3e3,conf.wrong,1,user_52
+4eb5f44f,conf.wrong,0.7,user_53
+86e5f420,conf.wrong,1,user_54
+44a5f428,conf.wrong,1,user_55
+11a12cf7,conf.wrong,0.7,user_6
+3ba12bbf,conf.wrong,0.8,user_7
+40e12bc4,conf.wrong,1,user_8
+93c13cdf,conf.wrong,0.5,user_9
+14e12bc0,correct solution,0,user_1
+d9a13dab,correct solution,1,user_10
+abf13ec8,correct solution,1,user_11
+f8f13e3f,correct solution,1,user_12
+69e13dbf,correct solution,1,user_13
+7fe13eed,correct solution,0,user_14
+63e13e19,correct solution,1,user_15
+f5a14053,correct solution,0,user_16
+dfaa6997,correct solution,0,user_17
+9ada6961,correct solution,1,user_18
+3dba695c,correct solution,0,user_19
+6ff12bc6,correct solution,1,user_2
+7eaa695c,correct solution,1,user_20
+4afa695f,correct solution,0,user_21
+51da695c,correct solution,0,user_22
+fdba6dee,correct solution,0,user_23
+4faa761b,correct solution,0,user_24
+feaa771c,correct solution,1,user_25
+9ada77bf,correct solution,1,user_26
+74ea7780,correct solution,0,user_27
+aaca786e,correct solution,1,user_28
+edda7ade,correct solution,1,user_29
+d4d12bd1,correct solution,0,user_3
+4dea781f,correct solution,1,user_30
+5dca7999,correct solution,1,user_31
+a7d493fc,correct solution,0,user_32
+95c49401,correct solution,0,user_33
+74f49413,correct solution,1,user_34
+23d493fc,correct solution,1,user_35
+1ab493fd,correct solution,1,user_36
+20a493fc,correct solution,0,user_37
+bffd5e34,correct solution,1,user_38
+7ecd5e30,correct solution,0,user_39
+5af12be7,correct solution,0,user_4
+fcbd5e2f,correct solution,0,user_40
+85ed5e2b,correct solution,1,user_41
+a7bd5e2a,correct solution,1,user_42
+e4fd61db,correct solution,1,user_43
+92fd5e2b,correct solution,1,user_44
+54bd5e2f,correct solution,1,user_45
+17fd5e34,correct solution,1,user_46
+b9a5f3a1,correct solution,1,user_47
+39f5f38a,correct solution,0,user_48
+99e5f431,correct solution,0,user_49
+44b12cfb,correct solution,0,user_5
+78a5f3d0,correct solution,1,user_50
+cfa5f4db,correct solution,1,user_51
+d7a5f3e3,correct solution,0,user_52
+4eb5f44f,correct solution,1,user_53
+86e5f420,correct solution,0,user_54
+44a5f428,correct solution,0,user_55
+11a12cf7,correct solution,0,user_6
+3ba12bbf,correct solution,0,user_7
+40e12bc4,correct solution,0,user_8
+93c13cdf,correct solution,0,user_9
+14e12bc0,own solution,1,user_1
+d9a13dab,own solution,1,user_10
+abf13ec8,own solution,0,user_11
+f8f13e3f,own solution,0,user_12
+69e13dbf,own solution,1,user_13
+7fe13eed,own solution,1,user_14
+63e13e19,own solution,1,user_15
+f5a14053,own solution,1,user_16
+dfaa6997,own solution,1,user_17
+9ada6961,own solution,1,user_18
+3dba695c,own solution,0,user_19
+6ff12bc6,own solution,0,user_2
+7eaa695c,own solution,0,user_20
+4afa695f,own solution,1,user_21
+51da695c,own solution,0,user_22
+fdba6dee,own solution,0,user_23
+4faa761b,own solution,0,user_24
+feaa771c,own solution,1,user_25
+9ada77bf,own solution,1,user_26
+74ea7780,own solution,1,user_27
+aaca786e,own solution,0,user_28
+edda7ade,own solution,0,user_29
+d4d12bd1,own solution,1,user_3
+4dea781f,own solution,0,user_30
+5dca7999,own solution,0,user_31
+a7d493fc,own solution,1,user_32
+95c49401,own solution,0,user_33
+74f49413,own solution,1,user_34
+23d493fc,own solution,0,user_35
+1ab493fd,own solution,1,user_36
+20a493fc,own solution,1,user_37
+bffd5e34,own solution,0,user_38
+7ecd5e30,own solution,1,user_39
+5af12be7,own solution,0,user_4
+fcbd5e2f,own solution,0,user_40
+85ed5e2b,own solution,1,user_41
+a7bd5e2a,own solution,0,user_42
+e4fd61db,own solution,0,user_43
+92fd5e2b,own solution,1,user_44
+54bd5e2f,own solution,1,user_45
+17fd5e34,own solution,1,user_46
+b9a5f3a1,own solution,1,user_47
+39f5f38a,own solution,1,user_48
+99e5f431,own solution,0,user_49
+44b12cfb,own solution,0,user_5
+78a5f3d0,own solution,0,user_50
+cfa5f4db,own solution,1,user_51
+d7a5f3e3,own solution,0,user_52
+4eb5f44f,own solution,1,user_53
+86e5f420,own solution,1,user_54
+44a5f428,own solution,1,user_55
+11a12cf7,own solution,0,user_6
+3ba12bbf,own solution,0,user_7
+40e12bc4,own solution,1,user_8
+93c13cdf,own solution,0,user_9
+14e12bc0,solve,0,user_1
+d9a13dab,solve,1,user_10
+abf13ec8,solve,0,user_11
+f8f13e3f,solve,0,user_12
+69e13dbf,solve,1,user_13
+7fe13eed,solve,0,user_14
+63e13e19,solve,1,user_15
+f5a14053,solve,0,user_16
+dfaa6997,solve,0,user_17
+9ada6961,solve,1,user_18
+3dba695c,solve,0,user_19
+6ff12bc6,solve,0,user_2
+7eaa695c,solve,0,user_20
+4afa695f,solve,0,user_21
+51da695c,solve,0,user_22
+fdba6dee,solve,0,user_23
+4faa761b,solve,0,user_24
+feaa771c,solve,1,user_25
+9ada77bf,solve,0,user_26
+74ea7780,solve,0,user_27
+aaca786e,solve,0,user_28
+edda7ade,solve,0,user_29
+d4d12bd1,solve,0,user_3
+4dea781f,solve,0,user_30
+5dca7999,solve,0,user_31
+a7d493fc,solve,0,user_32
+95c49401,solve,0,user_33
+74f49413,solve,0,user_34
+23d493fc,solve,0,user_35
+1ab493fd,solve,0,user_36
+20a493fc,solve,0,user_37
+bffd5e34,solve,0,user_38
+7ecd5e30,solve,0,user_39
+5af12be7,solve,0,user_4
+fcbd5e2f,solve,0,user_40
+85ed5e2b,solve,1,user_41
+a7bd5e2a,solve,0,user_42
+e4fd61db,solve,0,user_43
+92fd5e2b,solve,1,user_44
+54bd5e2f,solve,0,user_45
+17fd5e34,solve,0,user_46
+b9a5f3a1,solve,0,user_47
+39f5f38a,solve,0,user_48
+99e5f431,solve,0,user_49
+44b12cfb,solve,0,user_5
+78a5f3d0,solve,0,user_50
+cfa5f4db,solve,1,user_51
+d7a5f3e3,solve,0,user_52
+4eb5f44f,solve,1,user_53
+86e5f420,solve,0,user_54
+44a5f428,solve,0,user_55
+11a12cf7,solve,1,user_6
+3ba12bbf,solve,0,user_7
+40e12bc4,solve,0,user_8
+93c13cdf,solve,0,user_9
+14e12bc0,wrong solution,1,user_1
+d9a13dab,wrong solution,1,user_10
+abf13ec8,wrong solution,0,user_11
+f8f13e3f,wrong solution,0,user_12
+69e13dbf,wrong solution,1,user_13
+7fe13eed,wrong solution,0,user_14
+63e13e19,wrong solution,1,user_15
+f5a14053,wrong solution,0,user_16
+dfaa6997,wrong solution,1,user_17
+9ada6961,wrong solution,1,user_18
+3dba695c,wrong solution,1,user_19
+6ff12bc6,wrong solution,0,user_2
+7eaa695c,wrong solution,0,user_20
+4afa695f,wrong solution,1,user_21
+51da695c,wrong solution,1,user_22
+fdba6dee,wrong solution,0,user_23
+4faa761b,wrong solution,1,user_24
+feaa771c,wrong solution,0,user_25
+9ada77bf,wrong solution,0,user_26
+74ea7780,wrong solution,1,user_27
+aaca786e,wrong solution,0,user_28
+edda7ade,wrong solution,0,user_29
+d4d12bd1,wrong solution,1,user_3
+4dea781f,wrong solution,0,user_30
+5dca7999,wrong solution,0,user_31
+a7d493fc,wrong solution,0,user_32
+95c49401,wrong solution,0,user_33
+74f49413,wrong solution,1,user_34
+23d493fc,wrong solution,1,user_35
+1ab493fd,wrong solution,0,user_36
+20a493fc,wrong solution,1,user_37
+bffd5e34,wrong solution,0,user_38
+7ecd5e30,wrong solution,1,user_39
+5af12be7,wrong solution,1,user_4
+fcbd5e2f,wrong solution,0,user_40
+85ed5e2b,wrong solution,1,user_41
+a7bd5e2a,wrong solution,0,user_42
+e4fd61db,wrong solution,1,user_43
+92fd5e2b,wrong solution,1,user_44
+54bd5e2f,wrong solution,0,user_45
+17fd5e34,wrong solution,1,user_46
+b9a5f3a1,wrong solution,0,user_47
+39f5f38a,wrong solution,0,user_48
+99e5f431,wrong solution,1,user_49
+44b12cfb,wrong solution,0,user_5
+78a5f3d0,wrong solution,0,user_50
+cfa5f4db,wrong solution,1,user_51
+d7a5f3e3,wrong solution,1,user_52
+4eb5f44f,wrong solution,1,user_53
+86e5f420,wrong solution,1,user_54
+44a5f428,wrong solution,1,user_55
+11a12cf7,wrong solution,0,user_6
+3ba12bbf,wrong solution,0,user_7
+40e12bc4,wrong solution,1,user_8
+93c13cdf,wrong solution,0,user_9

@@ -1,0 +1,1234 @@
+[
+  {
+    "Experiment": "TSP-H",
+    "pId": "3ec9a6e6",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "5de48cdf",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "3bb48944",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "15aa6509",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "77c48375",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "85f9a6d2",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "9cc7748c",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "b1a48c3f",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "cee9a81a",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "feba5fc5",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "9df4842a",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "7fba639e",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "e4f5f5b5",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "fca4873e",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "12a9ae2a",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "13d4834a",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "13f9b2a2",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "17f77592",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "c7e9c903",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "10ab9726",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "18a484a4",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "19b5ed16",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "1bf489da",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "23d9ae46",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "26b5f381",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "29e5ebc5",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "2bb5ef20",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "2dd863ee",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "36e48c52",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "41d9a762",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "44e8ab8a",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "46f8ac25",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "11fb974e",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "47e5edd5",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "49c5f3a1",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "4dda62b2",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "4fbf604e",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "50d9a95d",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "55d9aa42",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "56b5eed1",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "5ad488f1",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "22d9baa1",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "5cbb915f",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "5fa485c5",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "3bdf6bda",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "5ff77982",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "66ba6285",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "66d9d233",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "79b71796",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "6ae90ada",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "72e90aba",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "75b9c0ca",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "7ea5f49c",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "83b9a75a",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "8bff5e5a",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "90fb8865",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "91fb8bf4",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "92a773fe",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "80d90961",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "90a5ec68",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "a2a8ab4c",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "a8bf5f29",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "92cf696c",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "95b77894",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "96d8aac5",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "9ab5efef",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "9be48461",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "ace48bbe",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "a9b9a926",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "adc48519",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "b9db9380",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "bdd5ebe4",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "c5d90e62",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "cab48bfd",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "cab9bf3d",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "ccf9d94f",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "d2a48468",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "d3d5ebbc",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "e8c84d60",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "d6b4857f",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "ddb90956",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "efa5ec99",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "f3a8a9ff",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "fca5f3ee",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "TSP-H",
+    "pId": "f3c5f3f3",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "11d91936",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "15b1a7c4",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "1fa48ce9",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "30df5f5b",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "38b1b683",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "42f49cd9",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "44f9bd3f",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "44ff6321",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "74a8acee",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "78c4867a",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "8aa49566",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "85bde030",
+    "Solve": "TRUE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "8dcd971b",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "adadab03",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "c7d9b384",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "a9bd9cf2",
+    "Solve": "TRUE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "ccada88c",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "d1cda643",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "19fd9708",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "d9fdaa70",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "e2b9b4ab",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "e3ad998d",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "1aadd8c6",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "1efa6e23",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "28eda21a",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "32edb566",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "4aedbe96",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "54c9e1bc",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "65ef6ef9",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": null,
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "b9ea81c7",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "a3da8866",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "a4eda26a",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "47cdb591",
+    "Solve": "TRUE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "b3da667e",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "dbf4888a",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "dca9aa0c",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "20a4c090",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "e1cd9fd3",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "39c9dcc7",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "e4bd9f4b",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "48ed9ada",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "50e487b2",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "eae1abd2",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "ede9130f",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "FALSE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "20ef5d02",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "2bf9c226",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "31acd41b",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "47ddaa64",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "caf492fd",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "e1e4859b",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "e8b9b3f7",
+    "Solve": "FALSE",
+    "VoteA": "FALSE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "17ada0f5",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "2ab9b6d7",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "46c9d19e",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "54b9af33",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "54e90f76",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "61b492d2",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "7fada915",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "92ddb24d",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "94bccfa5",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "97a48773",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "cbaccd87",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "ebb90996",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "ecf8a98d",
+    "Solve": "TRUE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "d4c9219c",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "edeccf6d",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "f5f9b2ec",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "FALSE"
+  },
+  {
+    "Experiment": "GEO-H",
+    "pId": "f7dda8dc",
+    "Solve": "FALSE",
+    "VoteA": "TRUE",
+    "VoteB": "TRUE",
+    "VoteOwn": "TRUE"
+  }
+]

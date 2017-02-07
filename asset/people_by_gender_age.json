@@ -1,0 +1,842 @@
+[
+ {
+   "GENDER": "female",
+   "AGE": 16,
+   "POPULATION": 2139271,
+   "RATE": 0.017378421
+ },
+ {
+   "GENDER": "female",
+   "AGE": 17,
+   "POPULATION": 2145174,
+   "RATE": 0.017426375
+ },
+ {
+   "GENDER": "female",
+   "AGE": 18,
+   "POPULATION": 2156041,
+   "RATE": 0.017514653
+ },
+ {
+   "GENDER": "female",
+   "AGE": 19,
+   "POPULATION": 2184392,
+   "RATE": 0.017744963
+ },
+ {
+   "GENDER": "female",
+   "AGE": 20,
+   "POPULATION": 2240373,
+   "RATE": 0.018199726
+ },
+ {
+   "GENDER": "female",
+   "AGE": 21,
+   "POPULATION": 2290006,
+   "RATE": 0.018602921
+ },
+ {
+   "GENDER": "female",
+   "AGE": 22,
+   "POPULATION": 2331696,
+   "RATE": 0.018941591
+ },
+ {
+   "GENDER": "female",
+   "AGE": 23,
+   "POPULATION": 2387842,
+   "RATE": 0.019397694
+ },
+ {
+   "GENDER": "female",
+   "AGE": 24,
+   "POPULATION": 2417937,
+   "RATE": 0.019642172
+ },
+ {
+   "GENDER": "female",
+   "AGE": 25,
+   "POPULATION": 2407515,
+   "RATE": 0.019557508
+ },
+ {
+   "GENDER": "female",
+   "AGE": 26,
+   "POPULATION": 2310983,
+   "RATE": 0.018773328
+ },
+ {
+   "GENDER": "female",
+   "AGE": 27,
+   "POPULATION": 2254603,
+   "RATE": 0.018315324
+ },
+ {
+   "GENDER": "female",
+   "AGE": 28,
+   "POPULATION": 2214738,
+   "RATE": 0.017991479
+ },
+ {
+   "GENDER": "female",
+   "AGE": 29,
+   "POPULATION": 2221560,
+   "RATE": 0.018046898
+ },
+ {
+   "GENDER": "female",
+   "AGE": 30,
+   "POPULATION": 2231463,
+   "RATE": 0.018127345
+ },
+ {
+   "GENDER": "female",
+   "AGE": 31,
+   "POPULATION": 2152765,
+   "RATE": 0.01748804
+ },
+ {
+   "GENDER": "female",
+   "AGE": 32,
+   "POPULATION": 2181163,
+   "RATE": 0.017718732
+ },
+ {
+   "GENDER": "female",
+   "AGE": 33,
+   "POPULATION": 2175631,
+   "RATE": 0.017673793
+ },
+ {
+   "GENDER": "female",
+   "AGE": 34,
+   "POPULATION": 2148717,
+   "RATE": 0.017455156
+ },
+ {
+   "GENDER": "female",
+   "AGE": 35,
+   "POPULATION": 2199270,
+   "RATE": 0.017865825
+ },
+ {
+   "GENDER": "female",
+   "AGE": 36,
+   "POPULATION": 2053297,
+   "RATE": 0.016680009
+ },
+ {
+   "GENDER": "female",
+   "AGE": 37,
+   "POPULATION": 2010463,
+   "RATE": 0.016332046
+ },
+ {
+   "GENDER": "female",
+   "AGE": 38,
+   "POPULATION": 1983816,
+   "RATE": 0.016115579
+ },
+ {
+   "GENDER": "female",
+   "AGE": 39,
+   "POPULATION": 1926578,
+   "RATE": 0.015650604
+ },
+ {
+   "GENDER": "female",
+   "AGE": 40,
+   "POPULATION": 1989213,
+   "RATE": 0.016159421
+ },
+ {
+   "GENDER": "female",
+   "AGE": 41,
+   "POPULATION": 1919064,
+   "RATE": 0.015589564
+ },
+ {
+   "GENDER": "female",
+   "AGE": 42,
+   "POPULATION": 1942311,
+   "RATE": 0.015778412
+ },
+ {
+   "GENDER": "female",
+   "AGE": 43,
+   "POPULATION": 2032362,
+   "RATE": 0.016509943
+ },
+ {
+   "GENDER": "female",
+   "AGE": 44,
+   "POPULATION": 2147203,
+   "RATE": 0.017442857
+ },
+ {
+   "GENDER": "female",
+   "AGE": 45,
+   "POPULATION": 2182484,
+   "RATE": 0.017729463
+ },
+ {
+   "GENDER": "female",
+   "AGE": 46,
+   "POPULATION": 2064898,
+   "RATE": 0.01677425
+ },
+ {
+   "GENDER": "female",
+   "AGE": 47,
+   "POPULATION": 2019602,
+   "RATE": 0.016406287
+ },
+ {
+   "GENDER": "female",
+   "AGE": 48,
+   "POPULATION": 2015073,
+   "RATE": 0.016369496
+ },
+ {
+   "GENDER": "female",
+   "AGE": 49,
+   "POPULATION": 2052872,
+   "RATE": 0.016676557
+ },
+ {
+   "GENDER": "female",
+   "AGE": 50,
+   "POPULATION": 2173002,
+   "RATE": 0.017652436
+ },
+ {
+   "GENDER": "female",
+   "AGE": 51,
+   "POPULATION": 2202725,
+   "RATE": 0.017893892
+ },
+ {
+   "GENDER": "female",
+   "AGE": 52,
+   "POPULATION": 2195088,
+   "RATE": 0.017831852
+ },
+ {
+   "GENDER": "female",
+   "AGE": 53,
+   "POPULATION": 2186448,
+   "RATE": 0.017761665
+ },
+ {
+   "GENDER": "female",
+   "AGE": 54,
+   "POPULATION": 2206584,
+   "RATE": 0.01792524
+ },
+ {
+   "GENDER": "female",
+   "AGE": 55,
+   "POPULATION": 2228498,
+   "RATE": 0.018103259
+ },
+ {
+   "GENDER": "female",
+   "AGE": 56,
+   "POPULATION": 2143285,
+   "RATE": 0.017411029
+ },
+ {
+   "GENDER": "female",
+   "AGE": 57,
+   "POPULATION": 2124551,
+   "RATE": 0.017258843
+ },
+ {
+   "GENDER": "female",
+   "AGE": 58,
+   "POPULATION": 2092228,
+   "RATE": 0.016996266
+ },
+ {
+   "GENDER": "female",
+   "AGE": 59,
+   "POPULATION": 2009005,
+   "RATE": 0.016320202
+ },
+ {
+   "GENDER": "female",
+   "AGE": 60,
+   "POPULATION": 1987008,
+   "RATE": 0.016141509
+ },
+ {
+   "GENDER": "female",
+   "AGE": 61,
+   "POPULATION": 1893657,
+   "RATE": 0.01538317
+ },
+ {
+   "GENDER": "female",
+   "AGE": 62,
+   "POPULATION": 1815914,
+   "RATE": 0.014751623
+ },
+ {
+   "GENDER": "female",
+   "AGE": 63,
+   "POPULATION": 1741514,
+   "RATE": 0.014147232
+ },
+ {
+   "GENDER": "female",
+   "AGE": 64,
+   "POPULATION": 1679087,
+   "RATE": 0.013640105
+ },
+ {
+   "GENDER": "female",
+   "AGE": 65,
+   "POPULATION": 1637936,
+   "RATE": 0.013305814
+ },
+ {
+   "GENDER": "female",
+   "AGE": 66,
+   "POPULATION": 1583339,
+   "RATE": 0.012862294
+ },
+ {
+   "GENDER": "female",
+   "AGE": 67,
+   "POPULATION": 1562960,
+   "RATE": 0.012696745
+ },
+ {
+   "GENDER": "female",
+   "AGE": 68,
+   "POPULATION": 1623929,
+   "RATE": 0.013192028
+ },
+ {
+   "GENDER": "female",
+   "AGE": 69,
+   "POPULATION": 1188026,
+   "RATE": 0.009650959
+ },
+ {
+   "GENDER": "female",
+   "AGE": 70,
+   "POPULATION": 1162672,
+   "RATE": 0.009444995
+ },
+ {
+   "GENDER": "female",
+   "AGE": 71,
+   "POPULATION": 1123102,
+   "RATE": 0.009123547
+ },
+ {
+   "GENDER": "female",
+   "AGE": 72,
+   "POPULATION": 1140651,
+   "RATE": 0.009266107
+ },
+ {
+   "GENDER": "female",
+   "AGE": 73,
+   "POPULATION": 983641,
+   "RATE": 0.007990632
+ },
+ {
+   "GENDER": "female",
+   "AGE": 74,
+   "POPULATION": 886092,
+   "RATE": 0.00719819
+ },
+ {
+   "GENDER": "female",
+   "AGE": 75,
+   "POPULATION": 829659,
+   "RATE": 0.006739756
+ },
+ {
+   "GENDER": "female",
+   "AGE": 76,
+   "POPULATION": 774758,
+   "RATE": 0.006293766
+ },
+ {
+   "GENDER": "female",
+   "AGE": 77,
+   "POPULATION": 728549,
+   "RATE": 0.005918386
+ },
+ {
+   "GENDER": "female",
+   "AGE": 78,
+   "POPULATION": 659853,
+   "RATE": 0.005360332
+ },
+ {
+   "GENDER": "female",
+   "AGE": 79,
+   "POPULATION": 618087,
+   "RATE": 0.005021045
+ },
+ {
+   "GENDER": "female",
+   "AGE": 80,
+   "POPULATION": 578240,
+   "RATE": 0.004697347
+ },
+ {
+   "GENDER": "female",
+   "AGE": 81,
+   "POPULATION": 507988,
+   "RATE": 0.004126653
+ },
+ {
+   "GENDER": "female",
+   "AGE": 82,
+   "POPULATION": 477629,
+   "RATE": 0.003880031
+ },
+ {
+   "GENDER": "female",
+   "AGE": 83,
+   "POPULATION": 442175,
+   "RATE": 0.00359202
+ },
+ {
+   "GENDER": "female",
+   "AGE": 84,
+   "POPULATION": 406633,
+   "RATE": 0.003303293
+ },
+ {
+   "GENDER": "female",
+   "AGE": 85,
+   "POPULATION": 374382,
+   "RATE": 0.003041302
+ },
+ {
+   "GENDER": "male",
+   "AGE": 16,
+   "POPULATION": 2045025,
+   "RATE": 0.016011422
+ },
+ {
+   "GENDER": "male",
+   "AGE": 17,
+   "POPULATION": 2049112,
+   "RATE": 0.016043421
+ },
+ {
+   "GENDER": "male",
+   "AGE": 18,
+   "POPULATION": 2061954,
+   "RATE": 0.016143967
+ },
+ {
+   "GENDER": "male",
+   "AGE": 19,
+   "POPULATION": 2078192,
+   "RATE": 0.016271102
+ },
+ {
+   "GENDER": "male",
+   "AGE": 20,
+   "POPULATION": 2123067,
+   "RATE": 0.016622448
+ },
+ {
+   "GENDER": "male",
+   "AGE": 21,
+   "POPULATION": 2166784,
+   "RATE": 0.016964728
+ },
+ {
+   "GENDER": "male",
+   "AGE": 22,
+   "POPULATION": 2197776,
+   "RATE": 0.017207379
+ },
+ {
+   "GENDER": "male",
+   "AGE": 23,
+   "POPULATION": 2264424,
+   "RATE": 0.017729196
+ },
+ {
+   "GENDER": "male",
+   "AGE": 24,
+   "POPULATION": 2319408,
+   "RATE": 0.01815969
+ },
+ {
+   "GENDER": "male",
+   "AGE": 25,
+   "POPULATION": 2322049,
+   "RATE": 0.018180368
+ },
+ {
+   "GENDER": "male",
+   "AGE": 26,
+   "POPULATION": 2233433,
+   "RATE": 0.017486553
+ },
+ {
+   "GENDER": "male",
+   "AGE": 27,
+   "POPULATION": 2185163,
+   "RATE": 0.017108626
+ },
+ {
+   "GENDER": "male",
+   "AGE": 28,
+   "POPULATION": 2149931,
+   "RATE": 0.016832779
+ },
+ {
+   "GENDER": "male",
+   "AGE": 29,
+   "POPULATION": 2161579,
+   "RATE": 0.016923976
+ },
+ {
+   "GENDER": "male",
+   "AGE": 30,
+   "POPULATION": 2185746,
+   "RATE": 0.01711319
+ },
+ {
+   "GENDER": "male",
+   "AGE": 31,
+   "POPULATION": 2125468,
+   "RATE": 0.016641247
+ },
+ {
+   "GENDER": "male",
+   "AGE": 32,
+   "POPULATION": 2162451,
+   "RATE": 0.016930803
+ },
+ {
+   "GENDER": "male",
+   "AGE": 33,
+   "POPULATION": 2166123,
+   "RATE": 0.016959553
+ },
+ {
+   "GENDER": "male",
+   "AGE": 34,
+   "POPULATION": 2146121,
+   "RATE": 0.016802948
+ },
+ {
+   "GENDER": "male",
+   "AGE": 35,
+   "POPULATION": 2180134,
+   "RATE": 0.017069252
+ },
+ {
+   "GENDER": "male",
+   "AGE": 36,
+   "POPULATION": 2055478,
+   "RATE": 0.016093264
+ },
+ {
+   "GENDER": "male",
+   "AGE": 37,
+   "POPULATION": 2017940,
+   "RATE": 0.015799362
+ },
+ {
+   "GENDER": "male",
+   "AGE": 38,
+   "POPULATION": 2003325,
+   "RATE": 0.015684934
+ },
+ {
+   "GENDER": "male",
+   "AGE": 39,
+   "POPULATION": 1944284,
+   "RATE": 0.015222676
+ },
+ {
+   "GENDER": "male",
+   "AGE": 40,
+   "POPULATION": 2000626,
+   "RATE": 0.015663803
+ },
+ {
+   "GENDER": "male",
+   "AGE": 41,
+   "POPULATION": 1946164,
+   "RATE": 0.015237395
+ },
+ {
+   "GENDER": "male",
+   "AGE": 42,
+   "POPULATION": 1981947,
+   "RATE": 0.015517556
+ },
+ {
+   "GENDER": "male",
+   "AGE": 43,
+   "POPULATION": 2068346,
+   "RATE": 0.016194013
+ },
+ {
+   "GENDER": "male",
+   "AGE": 44,
+   "POPULATION": 2187962,
+   "RATE": 0.01713054
+ },
+ {
+   "GENDER": "male",
+   "AGE": 45,
+   "POPULATION": 2206861,
+   "RATE": 0.017278509
+ },
+ {
+   "GENDER": "male",
+   "AGE": 46,
+   "POPULATION": 2095675,
+   "RATE": 0.016407984
+ },
+ {
+   "GENDER": "male",
+   "AGE": 47,
+   "POPULATION": 2054083,
+   "RATE": 0.016082341
+ },
+ {
+   "GENDER": "male",
+   "AGE": 48,
+   "POPULATION": 2062616,
+   "RATE": 0.01614915
+ },
+ {
+   "GENDER": "male",
+   "AGE": 49,
+   "POPULATION": 2099680,
+   "RATE": 0.016439341
+ },
+ {
+   "GENDER": "male",
+   "AGE": 50,
+   "POPULATION": 2227286,
+   "RATE": 0.017438426
+ },
+ {
+   "GENDER": "male",
+   "AGE": 51,
+   "POPULATION": 2276939,
+   "RATE": 0.017827182
+ },
+ {
+   "GENDER": "male",
+   "AGE": 52,
+   "POPULATION": 2279256,
+   "RATE": 0.017845322
+ },
+ {
+   "GENDER": "male",
+   "AGE": 53,
+   "POPULATION": 2277046,
+   "RATE": 0.017828019
+ },
+ {
+   "GENDER": "male",
+   "AGE": 54,
+   "POPULATION": 2309943,
+   "RATE": 0.018085585
+ },
+ {
+   "GENDER": "male",
+   "AGE": 55,
+   "POPULATION": 2324887,
+   "RATE": 0.018202588
+ },
+ {
+   "GENDER": "male",
+   "AGE": 56,
+   "POPULATION": 2255835,
+   "RATE": 0.017661949
+ },
+ {
+   "GENDER": "male",
+   "AGE": 57,
+   "POPULATION": 2246694,
+   "RATE": 0.01759038
+ },
+ {
+   "GENDER": "male",
+   "AGE": 58,
+   "POPULATION": 2228294,
+   "RATE": 0.017446318
+ },
+ {
+   "GENDER": "male",
+   "AGE": 59,
+   "POPULATION": 2154665,
+   "RATE": 0.016869843
+ },
+ {
+   "GENDER": "male",
+   "AGE": 60,
+   "POPULATION": 2138784,
+   "RATE": 0.016745504
+ },
+ {
+   "GENDER": "male",
+   "AGE": 61,
+   "POPULATION": 2060944,
+   "RATE": 0.016136059
+ },
+ {
+   "GENDER": "male",
+   "AGE": 62,
+   "POPULATION": 1986021,
+   "RATE": 0.015549453
+ },
+ {
+   "GENDER": "male",
+   "AGE": 63,
+   "POPULATION": 1909879,
+   "RATE": 0.014953303
+ },
+ {
+   "GENDER": "male",
+   "AGE": 64,
+   "POPULATION": 1857069,
+   "RATE": 0.01453983
+ },
+ {
+   "GENDER": "male",
+   "AGE": 65,
+   "POPULATION": 1812107,
+   "RATE": 0.014187802
+ },
+ {
+   "GENDER": "male",
+   "AGE": 66,
+   "POPULATION": 1760795,
+   "RATE": 0.013786058
+ },
+ {
+   "GENDER": "male",
+   "AGE": 67,
+   "POPULATION": 1741227,
+   "RATE": 0.013632851
+ },
+ {
+   "GENDER": "male",
+   "AGE": 68,
+   "POPULATION": 1812428,
+   "RATE": 0.014190316
+ },
+ {
+   "GENDER": "male",
+   "AGE": 69,
+   "POPULATION": 1344721,
+   "RATE": 0.010528427
+ },
+ {
+   "GENDER": "male",
+   "AGE": 70,
+   "POPULATION": 1329818,
+   "RATE": 0.010411744
+ },
+ {
+   "GENDER": "male",
+   "AGE": 71,
+   "POPULATION": 1298089,
+   "RATE": 0.010163324
+ },
+ {
+   "GENDER": "male",
+   "AGE": 72,
+   "POPULATION": 1328954,
+   "RATE": 0.01040498
+ },
+ {
+   "GENDER": "male",
+   "AGE": 73,
+   "POPULATION": 1162411,
+   "RATE": 0.00910104
+ },
+ {
+   "GENDER": "male",
+   "AGE": 74,
+   "POPULATION": 1067619,
+   "RATE": 0.00835887
+ },
+ {
+   "GENDER": "male",
+   "AGE": 75,
+   "POPULATION": 1010164,
+   "RATE": 0.007909029
+ },
+ {
+   "GENDER": "male",
+   "AGE": 76,
+   "POPULATION": 947283,
+   "RATE": 0.007416705
+ },
+ {
+   "GENDER": "male",
+   "AGE": 77,
+   "POPULATION": 910536,
+   "RATE": 0.007128997
+ },
+ {
+   "GENDER": "male",
+   "AGE": 78,
+   "POPULATION": 840960,
+   "RATE": 0.006584255
+ },
+ {
+   "GENDER": "male",
+   "AGE": 79,
+   "POPULATION": 803984,
+   "RATE": 0.006294753
+ },
+ {
+   "GENDER": "male",
+   "AGE": 80,
+   "POPULATION": 772956,
+   "RATE": 0.006051821
+ },
+ {
+   "GENDER": "male",
+   "AGE": 81,
+   "POPULATION": 693056,
+   "RATE": 0.005426248
+ },
+ {
+   "GENDER": "male",
+   "AGE": 82,
+   "POPULATION": 671319,
+   "RATE": 0.005256059
+ },
+ {
+   "GENDER": "male",
+   "AGE": 83,
+   "POPULATION": 640387,
+   "RATE": 0.005013878
+ },
+ {
+   "GENDER": "male",
+   "AGE": 84,
+   "POPULATION": 608958,
+   "RATE": 0.004767807
+ },
+ {
+   "GENDER": "male",
+   "AGE": 85,
+   "POPULATION": 582641,
+   "RATE": 0.004561759
+ }
+]

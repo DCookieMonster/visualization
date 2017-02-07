@@ -1,0 +1,251 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="dor amir">
+<title>Songs | Hot or Not</title>
+<!-- Bootstrap Core CSS -->
+<!-- <link href="css/bootstrap.min.csss" rel="stylesheet"> -->
+<!-- Custom CSS -->
+<link href="css/theme.css" rel="stylesheet">
+<!-- Custom Fonts -->
+
+<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="bower_components/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css" rel="stylesheet" type="text/css">
+
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,400italic,700italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+<!-- <script src="/bower_components/angular-route/angular-route.js"></script> -->
+<script src="bower_components/angular/angular.min.js"></script>
+<script src="bower_components/angular-animate/angular-animate.js"></script>
+<script src="bower_components/angular-sanitize/angular-sanitize.min.js"></script>
+<script src="bower_components/seiyria-bootstrap-slider/dist/bootstrap-slider.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+<link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+<script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
+<script src="bower_components/Chart.js/dist/Chart.js"></script>
+<script src="bower_components/d3/d3.min.js"></script>
+<script src="bower_components/mathjs/dist/math.min.js"></script>
+<script src="bower_components/at-table/dist/angular-table.min.js"></script>
+<script src="js/canvasjs.min.js"></script>
+<script src="js/app.module.js"></script>
+<script src="js/controllers/groupCtrl.js"></script>
+<script src="js/jquery-sortable.js"></script>
+<link href="css/group.css" rel="stylesheet">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]> <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script> <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script> <![endif]-->
+
+<style>
+.hide {
+    display: none;
+}
+.btn-circle {
+    width: 50px;
+    height: 50px;
+    margin-top: 15px;
+    line-height: 40px;
+    text-align: center;
+    border: 2px solid #fff;
+    border-radius: 100%!important;
+    font-size: 20px;
+    color: #fff;
+    background: 0 0;
+    -webkit-transition: background 0.3s ease-in-out;
+    -moz-transition: background 0.3s ease-in-out;
+    transition: background 0.3s ease-in-out;
+}
+section {
+    background-color: #ffffff;
+    color: #333;
+    overflow: hidden;
+}
+@media (min-width: 1200px)
+.container {
+    min-width: 1500px !important;
+}
+
+</style>
+<style>
+.axis line,
+.axis path {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+body.dragging, body.dragging * {
+  cursor: move !important;
+}
+
+.dragged {
+  position: absolute;
+  opacity: 0.5;
+  z-index: 2000;
+}
+
+ol.example li.placeholder {
+  position: relative;
+  /** More li styles **/
+}
+ol.example li.placeholder:before {
+  position: absolute;
+  /** Define arrowhead **/
+}
+li:before {
+  content: "\f0c9"; /* FontAwesome Unicode */
+  font-family: FontAwesome;
+  display: inline-block;
+  margin-left: -1.3em; /* same as padding-left set on li */
+  width: 1.3em; /* same as padding-left set on li */
+}
+li.nonIcon,
+li.nonIcon:hover,
+li.nonIcon:active{
+  list-style-type: none;
+}
+<style>
+.tooltip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+</style>
+</style>
+
+</head>
+
+<body ng-app="groupApp" ng-controller="groupCtrl" id="page-top" data-spy="scroll" data-target=".navbar-fixed-top-main">
+<!-- Navigation -->
+<nav class="navbar navbar-custom top-nav-collapse navbar-fixed-top" role="navigation">
+<div class="container" style="margin-left: 20px;margin-right: 20px;">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+            <i class="fa fa-bars"></i>
+        </button>
+        <span class="navbar-brand page-scroll">GDM - Within Group</span>
+    </div>
+
+</div>
+<!-- /.container -->
+</nav>
+<!-- Intro Header -->
+<div style="padding-top:5%" class="clear"></div>
+<div class="container">
+<div class="row">
+  <!-- <div class="col-lg-1">
+
+  </div> -->
+  <div class="col-lg-12">
+    <h3>Filters:</h3>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-1">
+</div>
+    <div class="col-lg-1">
+        <h5>Sort By:</h5>
+        <select type="button"  class="btn dropdown-toggle selectpicker btn-default"  data-toggle="dropdown" disabled>
+      <option>GEO-H</option>
+      <option>TSP-H</option>
+
+  </select>
+
+    </div>
+    <div class="col-lg-2">
+        <h5>Sort Order:</h5>
+        <!-- <select type="button"  class="btn dropdown-toggle selectpicker btn-default"  data-toggle="dropdown" >
+      <option>Solver first</option>
+      <option>Non-Solver first</option>
+      <option>Non-Solver first</option>
+
+  </select> -->
+  <ol class='limited_drop_targets'>
+  <li class="nonIcon">solve</li>
+  <li class="nonIcon">correct solution</li>
+  <li class="nonIcon">wrong solution</li>
+  <li class="nonIcon">own solution</li>
+  <li class="nonIcon">conf.solve</li>
+  <li class="nonIcon">conf.wrong</li>
+  <li class="nonIcon">conf.correct</li>
+  <li class="nonIcon">conf.own</li>
+</ol>
+<!-- <span id='serialize_output'></span> -->
+    </div>
+    <!-- <div class="col-lg-3">
+</div> -->
+    <div class="col-lg-2" align="left">
+        <button class="btn btnghost btn-default" ng-click="filterClick()">Apply</button>
+    </div>
+</div>
+
+<br/><br/>
+<!-- MAIN PAGE -->
+<section>
+  <div class="row">
+    <div class="col-lg-12">
+      <h3>GEO-H:</h3>
+
+    </div>  </div>
+  <div  id="heatmap_one" class="row">
+    <div id="one" class="heatmap"></div>
+  </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <h3>TSP-H:</h3>
+
+      </div>
+      </div>
+<div id="heatmap_two" class="row">
+  <div id="two" class="heatmap2"></div>
+</div>
+<div class="row">
+  <div id="trafficAccidents"></div>
+</div>
+
+</section>
+
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="js/vis.js"></script>
+
+<br/><br/>
+
+</div>
+
+</body>
+</html>
