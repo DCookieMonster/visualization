@@ -8,13 +8,11 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
     var width = 1500,
         height = 200;
 
-    var formatDate = d3.time.format("%Y-%m-%d");
-
-    $scope.clearCanvas = function() {
-        $('#one').remove(); // this is my <canvas> element
+    $scope.clearDiv = function() {
+        $('#one').remove(); // this is my <div> element
         $('#heatmap_one').append('  <div id="one" class="heatmap"></div>');
 
-        $('#two').remove(); // this is my <canvas> element
+        $('#two').remove(); // this is my <div> element
         $('#heatmap_two').append('  <div id="two" class="heatmap2"></div>');
 
     }
@@ -26,7 +24,7 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
           $scope.sort_order[item] = index+1
       });
 
-      $scope.clearCanvas()
+      $scope.clearDiv()
       $scope.geo_users = {}
       $scope.geo_solver = {}
     d3.csv('asset/GEO_data.csv',function(response){
@@ -34,26 +32,6 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
       response.forEach(function(d) {
         $scope.geo_data.push(d)
     });
-      //   $scope.geo_users = {}
-      //   $scope.geo_data.forEach(function(item){
-      //   user_id = item.pid
-      //   if (!(user_id in   $scope.geo_users)){
-      //       $scope.geo_users[user_id] = 0
-      //   }
-      //     $scope.geo_users[user_id] += parseInt(item.value)
-      // })
-      //
-      //   $scope.geo_solver = {}
-      //   $scope.geo_data.forEach(function(item){
-      //   user_id = item.pid
-      //   if (!(user_id in   $scope.geo_solver)){
-      //       $scope.geo_solver[user_id] = 0
-      //   }
-      //   if (item.y.toLowerCase() == 'solve')
-      //   {
-      //       $scope.geo_solver[user_id] += parseInt(item.value)
-      //   }
-      // })
       $scope.geo_full_data = []
       $scope.geo_user_indexer = {}
       $scope.geo_data.forEach(function(item,index){
@@ -95,14 +73,16 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
     });
 
     $scope.tsp_full_data.sort(dynamicSortMultiple());
+    $scope.tsp_user_order = {}
+    $scope.tsp_full_data.forEach(function(item,index){
+        $scope.tsp_user_order[item.user_id] = index+1
+    })
     console.log("TSP");
     console.log($scope.tsp_data);
     $scope.build_heatmap(  $scope.tsp_data,'.heatmap2',[]);
     })
 
-
     }
-
 
     $scope.filterClick()
 
@@ -110,23 +90,22 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
       console.log("function start")
       var data2 = response.map(function( item ) {
           var newItem = {};
-          newItem.country = item.y;
-          newItem.product = item.users;
+          newItem.y = item.y;
+          newItem.users = item.users;
           newItem.value = item.value;
           return newItem;
       })
       //
       data2.sort(function(a, b) {
-           return d3.ascending($scope.geo_user_order[a.product],$scope.geo_user_order[b.product]);
+           return d3.ascending($scope.geo_user_order[a.users],$scope.geo_user_order[b.users]);
       });
 
-      // data2.sort(function(a, b) {
-      //      return d3.ascending(-solver[a.product], -  $scope.solver[b.product]);
-      // });
-      var x_elements = d3.set(data2.map(function( item ) { return item.product; } )).values(),
-          y_elements = d3.set(data2.map(function( item ) { return item.country } )).values();
-          y_elements.sort(function(a, b) {
+      var x_elements = d3.set(data2.map(function( item ) { return item.users; } )).values(),
+          y_elements = d3.set(data2.map(function( item ) { return item.y } )).values();
+
+      y_elements.sort(function(a, b) {
                return d3.ascending($scope.sort_order[a], $scope.sort_order[b]);
+
           });
       var xScale = d3.scale.ordinal()
           .domain(x_elements)
@@ -172,8 +151,8 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
           .attr('class', 'cell')
           .attr('width', cellSize)
           .attr('height', cellSize)
-          .attr('y', function(d) { return yScale(d.country); })
-          .attr('x', function(d) { return xScale(d.product); })
+          .attr('y', function(d) { return yScale(d.y); })
+          .attr('x', function(d) { return xScale(d.users); })
           .attr('fill', function(d) { return colorScale(d.value); })
           .on("mouseover", function(d) {
             div.transition()
@@ -216,8 +195,7 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
           });
     }
 
-
-        function dynamicSortMultiple() {
+    function dynamicSortMultiple() {
         /*
          * save the arguments object as it will be overwritten
          * note that arguments object is an array-like object
@@ -248,7 +226,5 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
             return result * sortOrder;
         }
     }
-
-
 
 }]);
