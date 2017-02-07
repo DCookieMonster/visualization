@@ -1,12 +1,12 @@
 {
-  "name": "visualiztion",
+  "name": "vizualization",
   "authors": [
     "dor <amirdor@gmail.com>"
   ],
   "description": "course project",
   "main": "index.html",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/DCookieMonster/visualization",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -15,14 +15,16 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^3.1.0",
-    "bootstrap": "^3.3.7",
-    "angular": "^1.5.7",
-    "d3": "^4.4.0",
-    "chart.js": "chartjs#^2.4.0",
-    "mathjs": "^3.8.0",
-    "bootstrap-slider": "*",
-    "seiyria-bootstrap-slider": "^9.5.3",
-    "at-table": "^1.0.7"
-  }
+    "angular-animate": "^1.5.8",
+    "angular-markdown-directive": "^0.3.1",
+    "angular-bootstrap": "^2.0.0",
+    "angular-markdown": "^0.0.1",
+    "angular-filter": "^0.5.9",
+    "angular-route": "^1.5.7"
+  },
+  "keywords": [
+    "vizualization",
+    "course",
+    "project"
+  ]
 }
