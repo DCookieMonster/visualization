@@ -8,6 +8,8 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
     var width = 1500,
         height = 200;
 
+    $scope.selected = 'geo';
+
     $scope.clearDiv = function() {
         $('#one').remove(); // this is my <div> element
         $('#heatmap_one').append('  <div id="one" class="heatmap"></div>');
@@ -15,7 +17,77 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
         $('#two').remove(); // this is my <div> element
         $('#heatmap_two').append('  <div id="two" class="heatmap2"></div>');
 
+    };
+
+    $scope.build_geo = function(response){
+        $scope.geo_data=[]
+        response.forEach(function(d) {
+            $scope.geo_data.push(d)
+        });
+        $scope.geo_full_data = []
+        $scope.geo_user_indexer = {}
+        $scope.geo_data.forEach(function(item,index){
+            user_id = item.users
+            if (!(user_id in   $scope.geo_user_indexer)){
+                $scope.geo_user_indexer[user_id] = $scope.geo_full_data.length
+                $scope.geo_full_data.push({'user_id':user_id})
+            }
+            $scope.geo_full_data[$scope.geo_user_indexer[user_id]][item.y]=item.value
+
+        });
+        $scope.geo_full_data.sort(dynamicSortMultiple());
+
+        console.log("GEO");
+        console.log(  $scope.geo_full_data);
+
+
+        if (!$scope.geo_user_order ||  $scope.geo_user_order == {}) {
+
+            $scope.geo_user_order = {}
+            $scope.geo_full_data.forEach(function (item, index) {
+                $scope.geo_user_order[item.user_id] = index + 1
+            })
+        }
+        console.log(  $scope.geo_user_order);
+        $scope.build_heatmap(  $scope.geo_data,'.heatmap',$scope.geo_user_order )
     }
+
+
+    // new data
+    $scope.build_tsp = function(response){
+        $scope.tsp_data=[]
+        response.forEach(function(d) {
+            $scope.tsp_data.push(d)
+        });
+        $scope.tsp_full_data = []
+        $scope.tsp_user_indexer = {}
+        $scope.tsp_data.forEach(function(item,index){
+            user_id = item.users
+            if (!(user_id in   $scope.tsp_user_indexer)){
+                $scope.tsp_user_indexer[user_id] = $scope.tsp_full_data.length
+                $scope.tsp_full_data.push({'user_id':user_id})
+            }
+
+            $scope.tsp_full_data[$scope.tsp_user_indexer[user_id]][item.y]=item.value
+
+        });
+        console.log("hhh")
+        console.log($scope.tsp_full_data)
+
+        $scope.tsp_full_data.sort(dynamicSortMultiple());
+        console.log($scope.tsp_full_data)
+        if (!$scope.geo_user_order || $scope.geo_user_order == {}) {
+            $scope.geo_user_order = {}
+            $scope.tsp_full_data.forEach(function (item, index) {
+                $scope.geo_user_order[item.user_id] = index + 1
+            })
+        }
+        console.log("TSP");
+        console.log($scope.tsp_data);
+        $scope.build_heatmap(  $scope.tsp_data,'.heatmap2',$scope.geo_user_order );
+    }
+
+
 
     $scope.filterClick = function() {
       $scope.sort_order = {}
@@ -27,62 +99,58 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
       $scope.clearDiv()
       $scope.geo_users = {}
       $scope.geo_solver = {}
-    d3.csv('asset/GEO_data.csv',function(response){
-        $scope.geo_data=[]
-      response.forEach(function(d) {
-        $scope.geo_data.push(d)
-    });
-      $scope.geo_full_data = []
-      $scope.geo_user_indexer = {}
-      $scope.geo_data.forEach(function(item,index){
-        user_id = item.users
-        if (!(user_id in   $scope.geo_user_indexer)){
-            $scope.geo_user_indexer[user_id] = $scope.geo_full_data.length
-             $scope.geo_full_data.push({'user_id':user_id})
+      $scope.geo_user_order = null;
+
+        if ( $scope.selected == 'geo'){
+            d3.csv('asset/GEO_data.csv',function(data){
+                $scope.raw_geo = data;
+                $scope.build_geo($scope.raw_geo)
+
+            });
+            d3.csv('asset/TSP_data.csv',function(data){
+                $scope.raw_tsp = data;
+                $scope.build_tsp($scope.raw_tsp)
+
+            });
         }
-        $scope.geo_full_data[$scope.geo_user_indexer[user_id]][item.y]=item.value
+        else{
+            d3.csv('asset/TSP_data.csv',function(data){
+                $scope.raw_tsp = data;
+                $scope.build_tsp($scope.raw_tsp)
 
-      });
-      $scope.geo_full_data.sort(dynamicSortMultiple());
-      $scope.geo_user_order = {}
-      $scope.geo_full_data.forEach(function(item,index){
-          $scope.geo_user_order[item.user_id] = index+1
-      })
-      console.log(  $scope.geo_user_order);
-      $scope.build_heatmap(  $scope.geo_data,'.heatmap',[])
-    })
+            });
+            d3.csv('asset/GEO_data.csv',function(data){
+                $scope.raw_geo = data;
+                $scope.build_geo($scope.raw_geo)
+
+            });
+        }
 
 
-    // new data
-    d3.csv('asset/TSP_data.csv',function(response){
-        $scope.tsp_data=[]
-    response.forEach(function(d) {
-        $scope.tsp_data.push(d)
-    });
-    $scope.tsp_full_data = []
-    $scope.tsp_user_indexer = {}
-    $scope.tsp_data.forEach(function(item,index){
-      user_id = item.pid
-      if (!(user_id in   $scope.tsp_user_indexer)){
-          $scope.tsp_user_indexer[user_id] = $scope.tsp_full_data.length
-           $scope.tsp_full_data.push({'user_id':user_id})
-      }
-
-      $scope.tsp_full_data[$scope.tsp_user_indexer[user_id]][item.y]=item.value
-
-    });
-
-    $scope.tsp_full_data.sort(dynamicSortMultiple());
-    $scope.tsp_user_order = {}
-    $scope.tsp_full_data.forEach(function(item,index){
-        $scope.tsp_user_order[item.user_id] = index+1
-    })
-    console.log("TSP");
-    console.log($scope.tsp_data);
-    $scope.build_heatmap(  $scope.tsp_data,'.heatmap2',[]);
-    })
 
     }
+
+    var group = $("ol.limited_drop_targets").sortable({
+        group: 'limited_drop_targets',
+        isValidTarget: function  ($item, container) {
+            if($item.is(".highlight"))
+                return true;
+            else
+                return $item.parent("ol")[0] == container.el[0];
+        },
+        onDrop: function ($item, container, _super) {
+            console.log("change")
+            $('#serialize_output').text(
+                group.sortable("serialize").get().join("\n"));
+
+            _super($item, container);
+        },
+        serialize: function (parent, children, isContainer) {
+            return isContainer ? children.join() : parent.text();
+        },
+        tolerance: 6,
+        distance: 10
+    });
 
     $scope.filterClick()
 
@@ -97,7 +165,7 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
       })
       //
       data2.sort(function(a, b) {
-           return d3.ascending($scope.geo_user_order[a.users],$scope.geo_user_order[b.users]);
+           return d3.ascending(sort_order[a.users],sort_order[b.users]);
       });
 
       var x_elements = d3.set(data2.map(function( item ) { return item.users; } )).values(),

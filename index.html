@@ -176,9 +176,9 @@ li.nonIcon:active{
 </div>
     <div class="col-lg-1">
         <h5>Sort By:</h5>
-        <select type="button"  class="btn dropdown-toggle selectpicker btn-default"  data-toggle="dropdown" disabled>
-      <option>GEO-H</option>
-      <option>TSP-H</option>
+        <select type="button" ng-model="selected" ng-change="filterClick()" id="by" class="btn dropdown-toggle selectpicker btn-default"  data-toggle="dropdown">
+      <option value="geo">GEO-H</option>
+      <option value="tsp">TSP-H</option>
 
   </select>
 
