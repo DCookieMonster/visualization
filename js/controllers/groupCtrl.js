@@ -139,10 +139,9 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
                 return $item.parent("ol")[0] == container.el[0];
         },
         onDrop: function ($item, container, _super) {
-            console.log("change")
             $('#serialize_output').text(
                 group.sortable("serialize").get().join("\n"));
-
+            $scope.filterClick()
             _super($item, container);
         },
         serialize: function (parent, children, isContainer) {
@@ -151,6 +150,8 @@ GroupApp.controller('groupCtrl', ['$scope','$http', function($scope,$http) {
         tolerance: 6,
         distance: 10
     });
+    $('#serialize_output').text(
+        group.sortable("serialize").get().join("\n"));
 
     $scope.filterClick()
 
